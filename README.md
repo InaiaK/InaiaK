@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on MERN and reviewing repositories. 
 - 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on projects and learn from others.
-- 🤔 I'm looking for a job opportunity.
 - 📫 How to reach me: :octocat: [InaiaK](https://github.com/inaia@gmail.com) | 📫[InaiaMartin](https://www.linkedin.com/in/inai%C3%A1-martin100000/) | :email: inaiakenia15@gmail.com
 - ⚡ Fun fact: I eat pizza with ketchup. 
 
